@@ -1,5 +1,5 @@
 {
-  "name": "naimhowlader/livewire-multiselect",
+  "name": "naim-howlader/livewire-multiselect",
   "description": "A simple Livewire-based multi-select component for Laravel (no JS required).",
   "keywords": [
     "laravel",
